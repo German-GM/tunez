@@ -1,2 +1,20 @@
-erlang 27.3.3
-elixir 1.18.2-otp-27
+# elixir 1.19.0-rc.0-otp-28
+# erlang 27.3.3
+# elixir 1.18.2-otp-27
+elixir 1.18.4
+erlang 28.0
+# asdf uninstall erlang 27.3.3
+# asdf uninstall elixir 1.18.2-otp-27
+# erlang 27.3.4
+# elixir 1.19.0-rc.0-otp-27
+
+
+# asdf install erlang 28.0.1
+# asdf global erlang 28.0.1
+# asdf local erlang 28.0.1
+# asdf uninstall erlang 28.0
+
+# asdf install elixir 1.18.4
+# asdf global elixir 1.18.4
+# asdf local elixir 1.18.4
+# asdf uninstall elixir 1.18.0
